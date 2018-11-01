@@ -1,0 +1,5 @@
+applications:
+  - name: pet-service-rev5thPillar
+    memory: 1G
+    instances: 1
+    path: taraget/PetService-0.0.1-SNAPSHOT.jar
